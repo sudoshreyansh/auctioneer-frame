@@ -20,7 +20,7 @@ export default function DashboardFrame({ currentBid, highestBid }: {
                 { highestBid } ETH
               </div>
               <div tw="flex text-4xl text-[#00FFA3] pl-10 items-center">
-                <div>12.65 %</div>
+                <div>12.59 %</div>
               </div>
             </div>
           </div>

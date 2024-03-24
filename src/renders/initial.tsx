@@ -19,15 +19,15 @@ export default function InitialFrame() {
         <div tw="flex flex-col w-2/5">
           <div tw="flex text-4xl justify-between w-full" style={{ fontFamily: 'ManropeSemibold' }}>
             <div tw="pr-10">Auction Start:</div>
-            <div>0.02 ETH</div>
+            <div>0.020 ETH</div>
           </div>
           <div tw="flex text-4xl justify-between w-full" style={{ fontFamily: 'ManropeSemibold' }}>
             <div tw="pr-10">Last Sale:</div>
-            <div>1.72 ETH</div>
+            <div>0.913 ETH</div>
           </div>
           <div tw="flex text-4xl justify-between w-full" style={{ fontFamily: 'ManropeSemibold' }}>
             <div tw="pr-10">Collection Floor:</div>
-            <div>0.08 ETH</div>
+            <div>0.084 ETH</div>
           </div>
         </div>
       </div>
